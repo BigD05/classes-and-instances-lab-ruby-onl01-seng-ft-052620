@@ -9,6 +9,6 @@ end
  end  
  class Person 
    def name 
- "adele_goldberg"
+ adele_goldberg
  end 
  end 
