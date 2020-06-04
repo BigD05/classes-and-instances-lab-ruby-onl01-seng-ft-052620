@@ -8,5 +8,7 @@ class Dog
 end 
  end  
  class Person 
- @
+   def name 
+ @adele_goldberg
+ end 
  end 
