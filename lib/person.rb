@@ -5,11 +5,8 @@ class Dog
     name = "snoop"
     name = "lassie"
 
-
-
-
-
-  end 
+end 
+ end  
+ class Person 
  
- 
-  end  
+ end 
